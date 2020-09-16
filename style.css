@@ -1,7 +1,9 @@
+
 .carousel .carousel-inner{
     height:500px;
     }
 
+    
 .carousel-inner .carousel-item img{
     min-height:200px;
     /* prevent it from stretch in screen size < than 768px */
@@ -13,4 +15,4 @@
     /* prevent it from adding a white space between carousel and container elements */
     height:auto
      }
-}
+} 
