@@ -1,11 +1,12 @@
 
 .carousel .carousel-inner{
-    height:500px;
+    
     }
 
     
 .carousel-inner .carousel-item img{
     min-height:200px;
+    height:700px;
     /* prevent it from stretch in screen size < than 768px */
     object-fit:cover;
 }
